@@ -1,0 +1,73 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Rider files
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# MSBuild
+*.log
+msbuild.binlog
+
+# JetBrains Rider
+*.sln.iml
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Application secrets
+appsettings.*.json
+!appsettings.json
+!appsettings.Development.json
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Publish output
+publish/

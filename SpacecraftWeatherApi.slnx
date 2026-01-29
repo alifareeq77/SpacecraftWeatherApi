@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SpacecraftWeatherApi/SpacecraftWeatherApi.csproj" />
+  <Project Path="SpacecraftWeatherApi.Tests/SpacecraftWeatherApi.Tests.csproj" />
+</Solution>
