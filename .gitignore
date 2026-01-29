@@ -71,3 +71,7 @@ appsettings.*.json
 
 # Publish output
 publish/
+
+# Claude Code
+.claude/
+CLAUDE.md
